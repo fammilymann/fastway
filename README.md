@@ -1,0 +1,2 @@
+# fastway
+similar and different
